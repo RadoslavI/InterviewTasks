@@ -3,6 +3,7 @@
 Array advantages:
 - Random access which means fast search time
 - Less memory needed per element
+
 Array disadvantages: 
 - Slow insertion/deletion time
 - it has fixed size
